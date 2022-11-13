@@ -1,7 +1,7 @@
-👋 Hi, I’m @shadowwolf123987
+👋 Hi, I’m Oli
 
-👀 I’m interested in programming and game devlopment
+👀 I’m interested in programming and game development
 
-🌱 Learning Python, HTML, CSS, SQL and C#
+🌱 Learning Python, HTML, CSS and C#
 
-📫 How to reach me oliver.0t.taylor@gmail.com
+📫 Contact me at oliver.0t.taylor@gmail.com
