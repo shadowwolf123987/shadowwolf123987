@@ -2,6 +2,6 @@
 
 👀 I’m interested in programming and game devlopment
 
-🌱 I’m currently learning Python and C++
+🌱 Learning Python, HTML, CSS, SQL and C#
 
 📫 How to reach me oliver.0t.taylor@gmail.com
