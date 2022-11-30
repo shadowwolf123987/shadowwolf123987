@@ -1,7 +1,7 @@
-👋 Hi, I’m Oli
+Hi, I’m Oli
 
-👀 I’m interested in programming and game development
+I’m interested in programming and game development
 
-🌱 Learning Python, HTML, CSS and C#
+Learning Python, JavaScript
 
-📫 Contact me at oliver.0t.taylor@gmail.com
+Contact me at oliver.0t.taylor@gmail.com
