@@ -1,6 +1,6 @@
 Hi, I’m Oli
 
-I’m interested in programming and game development
+I’m interested in programming and web development
 
 Fluent in Python and Web Development (HTML,CSS,JavaScript)
 
