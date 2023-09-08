@@ -1,7 +1,7 @@
-I’m Oli
+My name is Oli
 
 I’m interested in programming and web development
 
-Fluent in Python and ASP.NET(C#,HTML,CSS,Javascript)
+Skilled in Python, C#, HTML, JavaScript, CSS
 
 Contact me at olitaylor@shadowdev.co.uk
