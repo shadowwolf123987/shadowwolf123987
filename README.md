@@ -1,7 +1,9 @@
 My name is Oli
 
-I’m interested in programming and web development
+I Have worked in multiple fields such as programming, web development, and game development
 
-Skilled in Python, C#, HTML, JavaScript, CSS
+I am proficient in Python, C#, HTML, JavaScript, CSS, ASP.NET
 
-Contact me at olitaylor@shadowdev.co.uk
+[My Portfolio website which showcases my projects and gives some information about myself](https://shadowwolf123987.github.io/Shadow-Dev-Website/)
+
+Contact me at oliver.0t.taylor@gmail.com
